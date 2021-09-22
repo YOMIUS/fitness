@@ -1,6 +1,8 @@
 # Fitness
 Web application displaying recommendations for exercises based on user input. 
 
+The exercise.ipynb file shows the modeling techniques used for the text classification and exploratory analysis performed on the dataset.
+
 # Requirements <br>
 asgiref==3.3.4 <br>
 Django==3.2.4 <br>
